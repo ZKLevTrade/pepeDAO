@@ -44,7 +44,7 @@ function Kyc() {
 						<Typography className="title">KYC</Typography>
 						<Typography className="desc"> 
 						
-							We've been extensively verified and we&apos;ve received the KYC certificate.
+							We've been extensively verified and we&apos;ve received the KYC certificate.1
 						</Typography>
 					</div>
 					<div className={styles.oneAudit} data-aos="fade-up">
