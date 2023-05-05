@@ -73,7 +73,7 @@ function HomePage(props) {
 			</Head>
 			<div className={styles.mainDiv}>
 				<NavBar changeTab={props.changeTab} light={false} />
-				<HomeImg />
+				<HomeImg changeTab={props.changeTab} />
 			</div>
 		</>
 	);
