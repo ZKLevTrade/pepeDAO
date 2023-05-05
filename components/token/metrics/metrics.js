@@ -15,27 +15,19 @@ import metricsImage from '../../../public/metrics.png';
 let metrics = [
 	{
 		color: '#C13A3A',
-		name: 'Token Metrics (20%)',
+		name: 'Presale (27%)',
 	},
 	{
 		color: '#C1A43A',
-		name: 'Token Metrics (20%)',
+		name: 'Liqudity Pool (15%)',
 	},
 	{
 		color: '#3C8430',
-		name: 'Token Metrics (20%)',
+		name: 'CEX Listings (6%)',
 	},
 	{
 		color: '#C7CABD',
-		name: 'Token Metrics (20%)',
-	},
-	{
-		color: '#C13A3A',
-		name: 'Token Metrics (20%)',
-	},
-	{
-		color: '#4F4F4F',
-		name: 'Token Metrics (20%)',
+		name: 'Burnt (52%)',
 	},
 ];
 
