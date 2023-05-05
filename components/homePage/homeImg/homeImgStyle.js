@@ -23,12 +23,21 @@ const useStyles = makeStyles({
 	},
 
 	bottom: {
-		position: 'absolute',
-		left: '5%',
-		bottom: '30px',
-		width: '90%',
+		//position: 'absolute',
+		//left: '5%',
+		//bottom: '30px',
+		//width: '90%',
 
-		display: 'none',
+		//display: 'none',
+
+		position: 'relative',
+		width: '90%',
+		maxWidth: '1402px',
+		margin: '0 auto',
+		marginTop: '30px',
+		paddingBottom: '30px',
+
+		display: 'flex',
 		justifyContent: 'space-between',
 
 		'& .left': {
@@ -82,6 +91,14 @@ const useStyles = makeStyles({
 
 		bottom: {
 			display: 'flex',
+
+			position: 'absolute',
+			left: '5%',
+			bottom: '30px',
+			maxWidth: 'none',
+
+			marginTop: '0px',
+			paddingBottom: '0px',
 		},
 	},
 
