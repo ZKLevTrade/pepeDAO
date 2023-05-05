@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'Alphakind';
+	src: url('../public/fonts/Alphakind.woff2') format('woff2'),
+		url('../public/fonts/Alphakind.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Milk Kids';
+	src: url('../public/fonts/MilkKids.woff2') format('woff2'),
+		url('../public/fonts/MilkKids.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
