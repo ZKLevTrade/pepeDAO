@@ -223,7 +223,7 @@ function NavBar(props) {
 				</Button>
 				<Button
 					className={`${styles.button} ${styles.socialButton}`}
-					href="https://google.com"
+					href="https://twitter.com/PEPEDAO_Global"
 					target="_blank"
 				>
 					<TwitterIcon className="icon" />
