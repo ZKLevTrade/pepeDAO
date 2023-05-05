@@ -11,8 +11,7 @@ import useStyles from './navBarStyle';
 import useGlobalStyles from '../globalStyle';
 
 // >> Images
-import logo_black from '../../public/logo_black.png';
-import logo_white from '../../public/logo_white.png';
+import logo from '../../public/logo.png';
 import burger from '../../public/burger.png';
 import burger_close from '../../public/burger_close.png';
 
@@ -44,8 +43,8 @@ function NavBar(props) {
 					}}
 				>
 					<Image
-						src={props.light === true ? logo_white : logo_black}
-						alt="PepeDEX"
+						src={logo}
+						alt="PEPE DAO"
 						quality={99}
 						priority={true}
 						className={globalStyles.image}

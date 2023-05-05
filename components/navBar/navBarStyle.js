@@ -31,9 +31,9 @@ const useStyles = makeStyles({
 
 	logo: {
 		position: 'relative',
-		width: '121px',
+		width: '141px',
 		height: 'auto',
-		marginTop: '23px',
+		marginTop: '28px',
 
 		'&:hover': {
 			cursor: 'pointer',
