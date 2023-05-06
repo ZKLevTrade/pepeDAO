@@ -24,7 +24,7 @@ function Kyc() {
 			<div className={styles.insideDiv}>
 				<div className={styles.top}>
 					<Typography className={styles.h1} data-aos="fade-up">
-						KYC, AUDIT & 0/0 Tax
+						KYC, AUDIT & SAFU
 					</Typography>
 					<Typography className={styles.h3} data-aos="fade-up">
 						We have provided all possible security measures for our investors as well as for ourselves. We are sure of our product!
