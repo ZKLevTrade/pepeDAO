@@ -27,6 +27,10 @@ import trustwallet from '../../../public/partners/trustwallet.svg';
 // >> Variables
 let partners = [
 	{
+		logo: bingx,
+		link: 'https://bingx.com',
+	},
+	{
 		logo: bscscan,
 		link: 'https://bscscan.com',
 	},
@@ -39,12 +43,32 @@ let partners = [
 		link: 'https://coinmarketcap.com',
 	},
 	{
+		logo: coinsult,
+		link: 'https://coinsult.net',
+	},
+	{
 		logo: dextools,
 		link: 'https://www.dextools.io',
 	},
 	{
 		logo: dexview,
 		link: 'https://www.dexview.com',
+	},
+	{
+		logo: huobi,
+		link: 'https://www.huobi.com',
+	},
+	{
+		logo: lbank,
+		link: 'https://www.lbank.info',
+	},
+	{
+		logo: mexcglobal,
+		link: 'https://www.mexc.com',
+	},
+	{
+		logo: okx,
+		link: 'www.okx.com',
 	},
 	{
 		logo: pancakeswap,
@@ -55,12 +79,8 @@ let partners = [
 		link: 'pinksale.finance',
 	},
 	{
-		logo: trustwallet,
-		link: 'https://trustwallet.com',
-	},
-	{
-		logo: trustwallet,
-		link: 'https://trustwallet.com',
+		logo: poloniex,
+		link: 'https://poloniex.com',
 	},
 	{
 		logo: trustwallet,

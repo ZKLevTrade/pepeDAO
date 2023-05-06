@@ -77,6 +77,7 @@ function AboutUs(props) {
 			<div className={styles.mainDiv}>
 				<NavBar changeTab={props.changeTab} light={false} />
 				<About />
+				<Team />
 				<Footer />
 			</div>
 		</>

@@ -28,7 +28,7 @@ function TokenInfo() {
 							PEPE DAO token ($PEPED) was created on the best foundations. We took care of every detail to make our token worthy of attention for every type of investor, from beginners to real whales. PEPED does not charge any taxes during the transaction, i.e. it is a tax-free token, and what is more, it rewards new investors for purchases in the form of a 0.5% return of the sum spent on the purchase of our token, the so-called negative tax and we were the first to use it in the PEPE era!
 						</Typography>
 						<Typography className={styles.h3}>
-							Our smart-contract code does not contain any provisions that could limit investors in any way, and it has been audited by a trusted company recommended by Pinksale.
+							Our smart-contract code does not contain any provisions that could limit investors in any way, and it has been audited by a trusted company recommended by Pinksale, AuditAce.
 						</Typography>
 						<Typography className={styles.h3}>
 						We have a lot of ideas for the development of our token, so we are sure of its success in the near future.

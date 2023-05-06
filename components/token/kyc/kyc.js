@@ -71,9 +71,9 @@ function Kyc() {
 								className={globalStyles.image}
 							/>
 						</div>
-						<Typography className="title">0/0 Tax</Typography>
+						<Typography className="title">SAFU</Typography>
 						<Typography className="desc">
-							We have 0/0 tax on trasactions!
+							We have adapted to SAFU standards and can fully assure you that we are SAFU!
 						</Typography>
 					</div>
 				</div>
