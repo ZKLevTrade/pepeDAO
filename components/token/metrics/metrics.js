@@ -19,15 +19,15 @@ let metrics = [
 	},
 	{
 		color: '#C1A43A',
-		name: 'Liqudity Pool (15%)',
+		name: 'Liqudity Pool (14%)',
 	},
 	{
 		color: '#3C8430',
-		name: 'CEX Listings (6%)',
+		name: 'CEX Listings (9%)',
 	},
 	{
 		color: '#C7CABD',
-		name: 'Burnt (52%)',
+		name: 'Burnt (50%)',
 	},
 ];
 
