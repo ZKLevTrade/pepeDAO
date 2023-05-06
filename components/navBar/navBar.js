@@ -115,6 +115,13 @@ function NavBar(props) {
 						<Typography>Docs</Typography>
 					</Button>
 					<Button
+						className={`${styles.button} ${styles.shortButton}`}
+						href="https://app.pepedao.finance/"
+						target="_blank"
+					>
+						<Typography>App</Typography>
+					</Button>
+					<Button
 						className={`${styles.button} ${styles.socialButton}`}
 						href="https://twitter.com/PEPEDAO_Global"
 						target="_blank"
