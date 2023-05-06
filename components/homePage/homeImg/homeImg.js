@@ -58,7 +58,7 @@ function HomeImg(props) {
 						</Button>
 						<Button
 							className={`${styles.button} ${styles.shortButton}`}
-							href="https://t.me/PepeDAO_Global"
+							href="https://www.pinksale.finance/launchpad/0x7c72fB2c21c0BFF8754fE2f5BF71A45f47c9c5E4?chain=BSC&refId=0x069a9310B3CB158B918D7ba94086a70b54D286aA"
 							target="_blank"
 						>
 							<Typography>Presale</Typography>
