@@ -51,7 +51,7 @@ function HomeImg(props) {
 						</Button>
 						<Button
 							className={`${styles.button} ${styles.shortButton}`}
-							href="https://twitter.com/PEPEDAO_Global/status/1654953740154093569?s=20"
+							href="https://sweepwidget.com/c/69860-kqdv6ns9"
 							target="_blank"
 						>
 							<Typography>Giveaway</Typography>
