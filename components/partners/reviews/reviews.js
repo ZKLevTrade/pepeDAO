@@ -40,7 +40,7 @@ function Reviews() {
 					<div className={styles.oneReview} data-aos="fade-up">
 						<iframe
 							className={styles.youtube}
-							src="https://www.youtube.com/embed/UqxrSkZv_5k"
+							src="https://www.youtube.com/embed/bvqXuOHjGuA"
 						></iframe>
 					</div>
 				</div>
