@@ -191,6 +191,14 @@ function NavBar(props) {
 				<Button
 					className={`${styles.button} ${styles.shortButton}`}
 					onClick={() => {
+						props.changeTab('token');
+					}}
+				>
+					<Typography>Token</Typography>
+				</Button>
+				<Button
+					className={`${styles.button} ${styles.shortButton}`}
+					onClick={() => {
 						props.changeTab('nft');
 					}}
 				>
@@ -205,14 +213,6 @@ function NavBar(props) {
 					<Typography>Roadmap</Typography>
 				</Button>
 				<Button
-					className={`${styles.button} ${styles.shortButton}`}
-					onClick={() => {
-						props.changeTab('faq');
-					}}
-				>
-					<Typography>FAQ</Typography>
-				</Button>
-				<Button
 					className={`${styles.button} ${styles.longButton}`}
 					onClick={() => {
 						props.changeTab('partners');
@@ -223,11 +223,27 @@ function NavBar(props) {
 				<Button
 					className={`${styles.button} ${styles.shortButton}`}
 					onClick={() => {
-						props.changeTab('token');
+						props.changeTab('faq');
 					}}
 				>
-					<Typography>Token</Typography>
+					<Typography>FAQ</Typography>
 				</Button>
+
+				<Button
+						className={`${styles.button} ${styles.shortButton}`}
+						href="https://gitbook.pepedao.finance/"
+						target="_blank"
+					>
+						<Typography>Docs</Typography>
+				</Button>
+				<Button
+						className={`${styles.button} ${styles.shortButton}`}
+						href="https://app.pepedao.finance/"
+						target="_blank"
+					>
+					<Typography>App</Typography>
+				</Button>
+
 				<Button
 					className={`${styles.button} ${styles.socialButton}`}
 					href="https://twitter.com/PEPEDAO_Global"
