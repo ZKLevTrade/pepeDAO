@@ -28,19 +28,19 @@ function Reviews() {
 					<div className={styles.oneReview} data-aos="fade-up">
 						<iframe
 							className={styles.youtube}
-							src="https://www.youtube.com/embed/gAbi2_n8_Mw"
+							src="https://www.youtube.com/embed/UqxrSkZv_5k"
 						></iframe>
 					</div>
 					<div className={styles.oneReview} data-aos="fade-up">
 						<iframe
 							className={styles.youtube}
-							src="https://www.youtube.com/embed/gAbi2_n8_Mw"
+							src="https://www.youtube.com/embed/UqxrSkZv_5k"
 						></iframe>
 					</div>
 					<div className={styles.oneReview} data-aos="fade-up">
 						<iframe
 							className={styles.youtube}
-							src="https://www.youtube.com/embed/gAbi2_n8_Mw"
+							src="https://www.youtube.com/embed/UqxrSkZv_5k"
 						></iframe>
 					</div>
 				</div>
