@@ -28,13 +28,13 @@ function Reviews() {
 					<div className={styles.oneReview} data-aos="fade-up">
 						<iframe
 							className={styles.youtube}
-							src="https://www.youtube.com/embed/UqxrSkZv_5k"
+							src="https://www.youtube.com/embed/mp8-4gKwXUQ"
 						></iframe>
 					</div>
 					<div className={styles.oneReview} data-aos="fade-up">
 						<iframe
 							className={styles.youtube}
-							src="https://www.youtube.com/embed/oApeJR1i9EE"
+							src="https://www.youtube.com/embed/Zh0hQTIX76Q"
 						></iframe>
 					</div>
 					<div className={styles.oneReview} data-aos="fade-up">
